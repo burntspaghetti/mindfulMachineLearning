@@ -27,8 +27,6 @@ sentiment analysis
 habits
  
  
-questions:
- 
 what questions should be asked????
 ------------------------------------
 What activities did you do?
@@ -62,8 +60,10 @@ What are you thankful for?
 What is something you want to change?
  
 -------------------------------------------------------------
- 
+Problems: 
+
+
 How to correlate what it is that made things go up and down?
  
  
-PROBLEM: feeding this text input into a machine learning api will make it no longer private...
+BIG PROBLEM: feeding this text input into a machine learning api will make it no longer private...how could this be run locally?
